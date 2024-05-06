@@ -2,7 +2,7 @@
   "name": "template-react",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://damtchorzewski.github.io/template-react/",
+  "homepage": "https://damtchorzewski.github.io/Template-React/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
